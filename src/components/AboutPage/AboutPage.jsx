@@ -15,7 +15,7 @@ class AboutPage extends Component {
                             
                             <ul className="lead">
                                 <li className="pb-2 pl-5"> Phone: +380 (068) 025 18 50<br/> Address: Ukraine, Kyiv </li>
-                                <li className="pb-2 pl-5"><a href="mailto:library@gmail.com">vakulkataras@gmail.com</a></li>
+                                <li className="pb-2 pl-5"><a href="mailto:vakulkataras@gmail.com">vakulkataras@gmail.com</a></li>
                                 <li className="pb-2 pl-5"><a href="https://tarasvakulka.github.io">tarasvakulka.github.io</a></li>
                             </ul> 
                         </div>
